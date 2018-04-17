@@ -1,0 +1,15 @@
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
